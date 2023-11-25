@@ -1,6 +1,8 @@
 # knot book analise // Анализ книг о морских узлах
 Frequent use of knots in books // Частота употребления узлов в книгах
 ## data
+online data
+https://docs.google.com/spreadsheets/d/1hjDxZubGKyQTE2bY-i7bevwSU6evxrCGiKW6tnUajhI/edit#gid=0
 column description
 - **knot_name** — название узла в книге
 - **page** — knot page // страница с узлом в книге
